@@ -1,0 +1,48 @@
+{
+   "letters": [
+      {"key": "a"},
+      {"key": "b"},
+      {"key": "c"},
+      {"key": "d"},
+      {"key": "e"},
+      {"key": "f"},
+      {"key": "g"},
+      {"key": "h"},
+      {"key": "i"},
+      {"key": "j"},
+      {"key": "k"},
+      {"key": "l"},
+      {"key": "m"},
+      {"key": "n"},
+      {"key": "o"},
+      {"key": "p"},
+      {"key": "q"},
+      {"key": "r"},
+      {"key": "s"},
+      {"key": "t"},
+      {"key": "u"},
+      {"key": "v"},
+      {"key": "w"},
+      {"key": "x"},
+      {"key": "y"},
+      {"key": "z"}
+   ],
+
+   "solutions" : [
+    {"id": 1, "word": "ninja"},
+    {"id": 2, "word": "perro"},
+    {"id": 3, "word": "avion"},
+    {"id": 4, "word": "pasto"},
+    {"id": 5, "word": "lente"},
+    {"id": 6, "word": "altar"},
+    {"id": 7, "word": "feria"},
+    {"id": 8, "word": "marco"},
+    {"id": 9, "word": "opera"},
+    {"id": 10, "word": "ovulo"},
+    {"id": 11, "word": "rubio"},
+    {"id": 12, "word": "renta"},
+    {"id": 13, "word": "reloj"},
+    {"id": 14, "word": "verde"},
+    {"id": 15, "word": "zorro"}
+   ] 
+}
